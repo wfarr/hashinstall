@@ -1,0 +1,1 @@
+A dumb, little tool to prevent the constant reinvention of `curl ... | unzip` that I end up doing in configuration management to install these tools.
